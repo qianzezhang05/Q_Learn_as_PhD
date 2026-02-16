@@ -1,9 +1,9 @@
 # Q_Learn_as_PhD
 This is a private repository used to store my learning materials and record my self-learning process. It was created on January 4, 2026.
 
-My advisors said, all of the following things can be seen as a tool. 
+My advisors said, all of the following things can be seen as tools. 
 
-Sp I treat thrm as a tool. learn it when I need it, use it after I learned it.
+So I treat thrm as tools. learn it when I need it, use it after I learned it.
 
 
 ## 1 Mathematics 
