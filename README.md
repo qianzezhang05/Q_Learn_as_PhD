@@ -32,4 +32,6 @@ I plan to separate this part from CS, as it is clearly my main focus.
 
 ## 6 Statistics
 
+## 7 Economics
+
 
