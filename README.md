@@ -51,9 +51,9 @@ I plan to separate this part from CS, as it is clearly my main focus.
 ## 7 Economics
 
 Fro economics, I used four books from the beginning:
-[Varian Hal R. Intermediate microeconomics: a modern approach.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://faculty.ksu.edu.sa/sites/default/files/microeco-_varian.pdf)
-[Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
-[Mas-Colell A, Whinston MD, Green JR. Microeconomic theory. New York: Oxford university press; 1995 Jun 15.](https://www.amazon.nl/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
-[Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://thenigerianprofessionalaccountant.wordpress.com/wp-content/uploads/2013/04/modern-econometrics.pdf)
+- [Varian Hal R. Intermediate microeconomics: a modern approach.](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://faculty.ksu.edu.sa/sites/default/files/microeco-_varian.pdf)
+- [Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
+- [Mas-Colell A, Whinston MD, Green JR. Microeconomic theory. New York: Oxford university press; 1995 Jun 15.](https://www.amazon.nl/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
+- [Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://thenigerianprofessionalaccountant.wordpress.com/wp-content/uploads/2013/04/modern-econometrics.pdf](https://www.amazon.nl/Guide-Modern-Econometrics-Fifth/dp/1119401151))
 
 
