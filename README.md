@@ -47,7 +47,7 @@ Two courses by Andrew Ng:
 
 Uni Courses:
 
-[Harvard CS50: Introduction to AI with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/)
+[Harvard CS50: Introduction to AI with Python](https://csdiy.wiki/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/CS50/](https://cs50.harvard.edu/ai/)
 
 ### Books
  I know there are a banch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
