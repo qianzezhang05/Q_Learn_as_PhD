@@ -38,7 +38,9 @@ I find a super comprehensive resources for learning CS, here is the link: [csdiy
 ## 3 AI
 
 I plan to separate this part from CS, as it is clearly my main focus.
+
 Two courses by Andrew Ng:
+
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_machine-learning-introduction_stanford_ftcof_specializations_cx_dr_bau_gg_pmax_pr_s1_en_m_hyb_24-04_desktop&campaignid=21160830418&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6495613033&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=21150459093&gbraid=0AAAAADdKX6b4c7iBvxIeUBvDWsYNiIJJ_&gclid=EAIaIQobChMIzKGelremkwMVs8pEBx2IZSqxEAAYASAAEgKya_D_BwE)
 
 [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
