@@ -8,6 +8,8 @@ So I treat thrm as tools. learn it when I need it, use it after I learned it.
 
 ## 1 Mathematics 
 
+This is the foundation of everything: Computer Science, Economics and Psychology. 
+
 ### Calculus
 I took two online calculus course from Sep 2025 to Oct 2025. [MIT 18.01 Single Variable Calculus, Fall 2006](https://www.youtube.com/playlist?list=PL590CCC2BC5AF3BC1) & [MIT 18.02 Multivariable Calculus, Fall 2007](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 
@@ -45,9 +47,27 @@ Two courses by Andrew Ng:
 
 [ DeepLearning.AI - Agentic-ai](https://learn.deeplearning.ai/courses/agentic-ai/lesson/pu5xbv/welcome!)
 
-Uni Courses:
+Uni Courses(Note that this is from the recommandation from [csdiy.wiki-CS学习规划](https://csdiy.wiki/CS%E5%AD%A6%E4%B9%A0%E8%A7%84%E5%88%92/)):
 
 [Harvard CS50: Introduction to AI with Python](https://cs50.harvard.edu/ai/)
+[CS188: Introduction to Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp25/)
+[CS229: Machine Learning](https://cs229.stanford.edu/)
+[国立台湾大学：李宏毅机器学习](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)
+[MIT 6.7960: Deep Learning](https://ocw.mit.edu/courses/6-7960-deep-learning-fall-2024/)
+[CS285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)
+[MIT6.5940: TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2024-fall-65940)
+
+### LLM Related
+[LLM papers](https://github.com/AmberLJC/LLMSys-PaperList)
+[Trending of LLM](https://github.com/Hannibal046/Awesome-LLM)
+[Large Language Model Systems, CMU 11868, Spring 2025](https://llmsystem.github.io/llmsystem2025spring/)
+[CS336: Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/index.html)
+[CMU: Generative AI](https://www.cs.cmu.edu/~mgormley/courses/10423/)
+[CS294-158-SP24, Deep Unsupervised Learning](https://sites.google.com/view/berkeley-cs294-158-sp24/home)
+[6.S978 Deep Generative Models](https://mit-6s978.github.io/schedule.html)
+
+### Machine Learning in Advance
+After have a solid foundation of AI&CS and want to move forward to compete with researchers working in Comuter Science Field(General), click [here](https://csdiy.wiki/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%BF%9B%E9%98%B6/roadmap/) to check what to learn next.
 
 ### Books
  I know there are a banch of books hanging ouver there however here I provide to myself this booklist for AI : [Machine Learning for Human: AI reading list](https://medium.com/machine-learning-for-humans/ai-reading-list-c4753afd97a)
@@ -65,5 +85,3 @@ Fro economics, I used four books from the beginning:
 - [Varian HR. Microeconomic analysis. New York: Norton; 1992 Mar.](https://www.amazon.nl/-/en/Microeconomic-Analysis-Hal-R-Varian/dp/0393957357)
 - [Mas-Colell A, Whinston MD, Green JR. Microeconomic theory. New York: Oxford university press; 1995 Jun 15.](https://www.amazon.nl/Microeconomic-Theory-Andreu-Mas-Colell/dp/0195073401)
 - [Verbeek M. A guide to modern econometrics. John Wiley & Sons; 2017 Jul 31.]([chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://thenigerianprofessionalaccountant.wordpress.com/wp-content/uploads/2013/04/modern-econometrics.pdf](https://www.amazon.nl/Guide-Modern-Econometrics-Fifth/dp/1119401151))
-
-
