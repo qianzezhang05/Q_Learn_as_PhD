@@ -87,7 +87,45 @@ After have a solid foundation of AI&CS and want to move forward to compete with 
 
 ## 4 Cognitive Science
 
+I was trained as applied psychology track for 5 years especially in cognitive psychology, I generally do not need further textbooks except textbooks I used before. 
+
+I do have a book want to read: [Bayesian Models of Cognition: Reverse Engineering the Mind](https://www.amazon.nl/-/en/Bayesian-Models-Cognition-Reverse-Engineering/dp/0262049414/ref=sr_1_1?adgrpid=107688379813&dib=eyJ2IjoiMSJ9.4V-96JR0m56L-CvQEAFtNfezFP06mCiMkJLo2QRdpP6rUI-DyXNHZF-c1l4SnM_YheBwmV-d8aWgHnQ3JZP0SE6gE_PE4hnGLv94xD9JTFDOTBzY_1l-qJWlo2HuVMSRD8za1svprwpsOfx6MRO-Cui3BBlUqzJL3DHYZhJNKVMKAWsBuHB957VwBLQ40APn1A2JzjVhA5bUegPlSa70TOQgaVshj0tGeKnafsky27RXT_fM4H6F2yieZqQb8oJl3A5XM_1tQRi-KM2njyqzMGqYeifS8cRr2EEzjbeV3zc.7Kof3KbBRUsBBOdgNSpd_JZ8cpN9pKuvz1bWIZLYEgo&dib_tag=se&hvadid=678272022875&hvdev=c&hvlocphy=9103951&hvnetw=g&hvqmt=e&hvrand=14643976115512579455&hvtargid=kwd-2229974913553&hydadcr=30008_2483970&keywords=bayesian+models+of+cognition&mcid=de04fc7587ea3747bd2eab81a73d2173&qid=1773740826&sr=8-1)
+
+### Books
+
+Yuille, A. L., & Bülthoff, H. H. (1993). Bayesian decision theory and psychophysics.
+
+Kantowitz, B. H., Roediger, H. L., & Elmes, D. G. (2009). Experimental psychology (Vol. 3). Belmont: Wadsworth.
+
+Prins, N. (2016). Psychophysics: a practical introduction. Academic Press.
+
+Green, D. M., & Swets, J. A. (1966). Signal detection theory and psychophysics (Vol. 1, pp. 1969-2012). New York: Wiley.
+
+Hautus, M. J., Macmillan, N. A., & Creelman, C. D. (2021). Detection theory: A user's guide. Routledge.
+
+West, B. J. (2011). Decision Making: a Psychophysics Application of Network Science. Decision Making: A Psychophysics Application of Network Science. Edited by West Bruce J-. Published by World Scientific Publishing Co. Pte. Ltd.
+
+
 ## 5 Decision Science
+
+
+### Books
+
+Resnik, M. D. (1987). Choices: An introduction to decision theory. U of Minnesota Press.
+
+Rubinstein, A. (1998). Modeling bounded rationality. MIT press.
+
+Gilboa, I. (2012). Rational choice. MIT press.
+
+[Binmore, K. (2008). Rational decisions.](https://press.princeton.edu/books/paperback/9780691149899/rational-decisions)
+
+Bermúdez, J. L., & Millar, A. (Eds.). (2002). Reason and nature: Essays in the theory of rationality. Oxford University Press.
+
+Gigerenzer, G. (2015). Simply rational: Decision making in the real world. Oxford University Press.
+
+Nozick, R. (1994). The nature of rationality.
+
+Gilboa, I. (2009). Theory of decision under uncertainty (Vol. 45). Cambridge university press.
 
 ## 6 Statistics
 
